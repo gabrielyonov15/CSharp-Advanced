@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\C# Advanced\Stacks and Queues - Lab\6.Supermarket\bin\Debug\net8.0\6.Supermarket.exe
+C:\Users\lubak\Desktop\C# Advanced\Stacks and Queues - Lab\6.Supermarket\bin\Debug\net8.0\6.Supermarket.deps.json
+C:\Users\lubak\Desktop\C# Advanced\Stacks and Queues - Lab\6.Supermarket\bin\Debug\net8.0\6.Supermarket.runtimeconfig.json
+C:\Users\lubak\Desktop\C# Advanced\Stacks and Queues - Lab\6.Supermarket\bin\Debug\net8.0\6.Supermarket.dll
+C:\Users\lubak\Desktop\C# Advanced\Stacks and Queues - Lab\6.Supermarket\bin\Debug\net8.0\6.Supermarket.pdb
+C:\Users\lubak\Desktop\C# Advanced\Stacks and Queues - Lab\6.Supermarket\obj\Debug\net8.0\6.Supermarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\C# Advanced\Stacks and Queues - Lab\6.Supermarket\obj\Debug\net8.0\6.Supermarket.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\C# Advanced\Stacks and Queues - Lab\6.Supermarket\obj\Debug\net8.0\6.Supermarket.AssemblyInfo.cs
+C:\Users\lubak\Desktop\C# Advanced\Stacks and Queues - Lab\6.Supermarket\obj\Debug\net8.0\6.Supermarket.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\C# Advanced\Stacks and Queues - Lab\6.Supermarket\obj\Debug\net8.0\6.Supermarket.dll
+C:\Users\lubak\Desktop\C# Advanced\Stacks and Queues - Lab\6.Supermarket\obj\Debug\net8.0\refint\6.Supermarket.dll
+C:\Users\lubak\Desktop\C# Advanced\Stacks and Queues - Lab\6.Supermarket\obj\Debug\net8.0\6.Supermarket.pdb
+C:\Users\lubak\Desktop\C# Advanced\Stacks and Queues - Lab\6.Supermarket\obj\Debug\net8.0\6.Supermarket.genruntimeconfig.cache
+C:\Users\lubak\Desktop\C# Advanced\Stacks and Queues - Lab\6.Supermarket\obj\Debug\net8.0\ref\6.Supermarket.dll
