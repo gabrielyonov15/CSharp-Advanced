@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\C# Advanced\Multidimensional Arrays - Exercise\1.DiagonalDifference\bin\Debug\net8.0\1.DiagonalDifference.exe
+C:\Users\lubak\Desktop\C# Advanced\Multidimensional Arrays - Exercise\1.DiagonalDifference\bin\Debug\net8.0\1.DiagonalDifference.deps.json
+C:\Users\lubak\Desktop\C# Advanced\Multidimensional Arrays - Exercise\1.DiagonalDifference\bin\Debug\net8.0\1.DiagonalDifference.runtimeconfig.json
+C:\Users\lubak\Desktop\C# Advanced\Multidimensional Arrays - Exercise\1.DiagonalDifference\bin\Debug\net8.0\1.DiagonalDifference.dll
+C:\Users\lubak\Desktop\C# Advanced\Multidimensional Arrays - Exercise\1.DiagonalDifference\bin\Debug\net8.0\1.DiagonalDifference.pdb
+C:\Users\lubak\Desktop\C# Advanced\Multidimensional Arrays - Exercise\1.DiagonalDifference\obj\Debug\net8.0\1.DiagonalDifference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\C# Advanced\Multidimensional Arrays - Exercise\1.DiagonalDifference\obj\Debug\net8.0\1.DiagonalDifference.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\C# Advanced\Multidimensional Arrays - Exercise\1.DiagonalDifference\obj\Debug\net8.0\1.DiagonalDifference.AssemblyInfo.cs
+C:\Users\lubak\Desktop\C# Advanced\Multidimensional Arrays - Exercise\1.DiagonalDifference\obj\Debug\net8.0\1.DiagonalDifference.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\C# Advanced\Multidimensional Arrays - Exercise\1.DiagonalDifference\obj\Debug\net8.0\1.DiagonalDifference.dll
+C:\Users\lubak\Desktop\C# Advanced\Multidimensional Arrays - Exercise\1.DiagonalDifference\obj\Debug\net8.0\refint\1.DiagonalDifference.dll
+C:\Users\lubak\Desktop\C# Advanced\Multidimensional Arrays - Exercise\1.DiagonalDifference\obj\Debug\net8.0\1.DiagonalDifference.pdb
+C:\Users\lubak\Desktop\C# Advanced\Multidimensional Arrays - Exercise\1.DiagonalDifference\obj\Debug\net8.0\1.DiagonalDifference.genruntimeconfig.cache
+C:\Users\lubak\Desktop\C# Advanced\Multidimensional Arrays - Exercise\1.DiagonalDifference\obj\Debug\net8.0\ref\1.DiagonalDifference.dll

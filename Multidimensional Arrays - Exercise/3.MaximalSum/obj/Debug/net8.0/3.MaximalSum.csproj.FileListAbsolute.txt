@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\C# Advanced\Multidimensional Arrays - Exercise\3.MaximalSum\bin\Debug\net8.0\3.MaximalSum.exe
+C:\Users\lubak\Desktop\C# Advanced\Multidimensional Arrays - Exercise\3.MaximalSum\bin\Debug\net8.0\3.MaximalSum.deps.json
+C:\Users\lubak\Desktop\C# Advanced\Multidimensional Arrays - Exercise\3.MaximalSum\bin\Debug\net8.0\3.MaximalSum.runtimeconfig.json
+C:\Users\lubak\Desktop\C# Advanced\Multidimensional Arrays - Exercise\3.MaximalSum\bin\Debug\net8.0\3.MaximalSum.dll
+C:\Users\lubak\Desktop\C# Advanced\Multidimensional Arrays - Exercise\3.MaximalSum\bin\Debug\net8.0\3.MaximalSum.pdb
+C:\Users\lubak\Desktop\C# Advanced\Multidimensional Arrays - Exercise\3.MaximalSum\obj\Debug\net8.0\3.MaximalSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\C# Advanced\Multidimensional Arrays - Exercise\3.MaximalSum\obj\Debug\net8.0\3.MaximalSum.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\C# Advanced\Multidimensional Arrays - Exercise\3.MaximalSum\obj\Debug\net8.0\3.MaximalSum.AssemblyInfo.cs
+C:\Users\lubak\Desktop\C# Advanced\Multidimensional Arrays - Exercise\3.MaximalSum\obj\Debug\net8.0\3.MaximalSum.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\C# Advanced\Multidimensional Arrays - Exercise\3.MaximalSum\obj\Debug\net8.0\3.MaximalSum.dll
+C:\Users\lubak\Desktop\C# Advanced\Multidimensional Arrays - Exercise\3.MaximalSum\obj\Debug\net8.0\refint\3.MaximalSum.dll
+C:\Users\lubak\Desktop\C# Advanced\Multidimensional Arrays - Exercise\3.MaximalSum\obj\Debug\net8.0\3.MaximalSum.pdb
+C:\Users\lubak\Desktop\C# Advanced\Multidimensional Arrays - Exercise\3.MaximalSum\obj\Debug\net8.0\3.MaximalSum.genruntimeconfig.cache
+C:\Users\lubak\Desktop\C# Advanced\Multidimensional Arrays - Exercise\3.MaximalSum\obj\Debug\net8.0\ref\3.MaximalSum.dll
