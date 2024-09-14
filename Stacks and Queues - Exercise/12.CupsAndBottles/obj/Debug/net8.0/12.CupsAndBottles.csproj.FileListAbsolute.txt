@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\C# Advanced\Stacks and Queues - Exercise\12.CupsAndBottles\bin\Debug\net8.0\12.CupsAndBottles.exe
+C:\Users\lubak\Desktop\C# Advanced\Stacks and Queues - Exercise\12.CupsAndBottles\bin\Debug\net8.0\12.CupsAndBottles.deps.json
+C:\Users\lubak\Desktop\C# Advanced\Stacks and Queues - Exercise\12.CupsAndBottles\bin\Debug\net8.0\12.CupsAndBottles.runtimeconfig.json
+C:\Users\lubak\Desktop\C# Advanced\Stacks and Queues - Exercise\12.CupsAndBottles\bin\Debug\net8.0\12.CupsAndBottles.dll
+C:\Users\lubak\Desktop\C# Advanced\Stacks and Queues - Exercise\12.CupsAndBottles\bin\Debug\net8.0\12.CupsAndBottles.pdb
+C:\Users\lubak\Desktop\C# Advanced\Stacks and Queues - Exercise\12.CupsAndBottles\obj\Debug\net8.0\12.CupsAndBottles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\C# Advanced\Stacks and Queues - Exercise\12.CupsAndBottles\obj\Debug\net8.0\12.CupsAndBottles.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\C# Advanced\Stacks and Queues - Exercise\12.CupsAndBottles\obj\Debug\net8.0\12.CupsAndBottles.AssemblyInfo.cs
+C:\Users\lubak\Desktop\C# Advanced\Stacks and Queues - Exercise\12.CupsAndBottles\obj\Debug\net8.0\12.CupsAndBottles.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\C# Advanced\Stacks and Queues - Exercise\12.CupsAndBottles\obj\Debug\net8.0\12.CupsAndBottles.dll
+C:\Users\lubak\Desktop\C# Advanced\Stacks and Queues - Exercise\12.CupsAndBottles\obj\Debug\net8.0\refint\12.CupsAndBottles.dll
+C:\Users\lubak\Desktop\C# Advanced\Stacks and Queues - Exercise\12.CupsAndBottles\obj\Debug\net8.0\12.CupsAndBottles.pdb
+C:\Users\lubak\Desktop\C# Advanced\Stacks and Queues - Exercise\12.CupsAndBottles\obj\Debug\net8.0\12.CupsAndBottles.genruntimeconfig.cache
+C:\Users\lubak\Desktop\C# Advanced\Stacks and Queues - Exercise\12.CupsAndBottles\obj\Debug\net8.0\ref\12.CupsAndBottles.dll
