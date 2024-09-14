@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\C# Advanced\Multidimensional Arrays - Lab\4.SymbolInMatrix\bin\Debug\net8.0\4.SymbolInMatrix.exe
+C:\Users\lubak\Desktop\C# Advanced\Multidimensional Arrays - Lab\4.SymbolInMatrix\bin\Debug\net8.0\4.SymbolInMatrix.deps.json
+C:\Users\lubak\Desktop\C# Advanced\Multidimensional Arrays - Lab\4.SymbolInMatrix\bin\Debug\net8.0\4.SymbolInMatrix.runtimeconfig.json
+C:\Users\lubak\Desktop\C# Advanced\Multidimensional Arrays - Lab\4.SymbolInMatrix\bin\Debug\net8.0\4.SymbolInMatrix.dll
+C:\Users\lubak\Desktop\C# Advanced\Multidimensional Arrays - Lab\4.SymbolInMatrix\bin\Debug\net8.0\4.SymbolInMatrix.pdb
+C:\Users\lubak\Desktop\C# Advanced\Multidimensional Arrays - Lab\4.SymbolInMatrix\obj\Debug\net8.0\4.SymbolInMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\C# Advanced\Multidimensional Arrays - Lab\4.SymbolInMatrix\obj\Debug\net8.0\4.SymbolInMatrix.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\C# Advanced\Multidimensional Arrays - Lab\4.SymbolInMatrix\obj\Debug\net8.0\4.SymbolInMatrix.AssemblyInfo.cs
+C:\Users\lubak\Desktop\C# Advanced\Multidimensional Arrays - Lab\4.SymbolInMatrix\obj\Debug\net8.0\4.SymbolInMatrix.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\C# Advanced\Multidimensional Arrays - Lab\4.SymbolInMatrix\obj\Debug\net8.0\4.SymbolInMatrix.dll
+C:\Users\lubak\Desktop\C# Advanced\Multidimensional Arrays - Lab\4.SymbolInMatrix\obj\Debug\net8.0\refint\4.SymbolInMatrix.dll
+C:\Users\lubak\Desktop\C# Advanced\Multidimensional Arrays - Lab\4.SymbolInMatrix\obj\Debug\net8.0\4.SymbolInMatrix.pdb
+C:\Users\lubak\Desktop\C# Advanced\Multidimensional Arrays - Lab\4.SymbolInMatrix\obj\Debug\net8.0\4.SymbolInMatrix.genruntimeconfig.cache
+C:\Users\lubak\Desktop\C# Advanced\Multidimensional Arrays - Lab\4.SymbolInMatrix\obj\Debug\net8.0\ref\4.SymbolInMatrix.dll
