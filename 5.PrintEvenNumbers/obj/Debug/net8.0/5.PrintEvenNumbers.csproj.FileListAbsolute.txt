@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\C# Advanced\Stacks and Queues - Lab\5.PrintEvenNumbers\bin\Debug\net8.0\5.PrintEvenNumbers.exe
+C:\Users\lubak\Desktop\C# Advanced\Stacks and Queues - Lab\5.PrintEvenNumbers\bin\Debug\net8.0\5.PrintEvenNumbers.deps.json
+C:\Users\lubak\Desktop\C# Advanced\Stacks and Queues - Lab\5.PrintEvenNumbers\bin\Debug\net8.0\5.PrintEvenNumbers.runtimeconfig.json
+C:\Users\lubak\Desktop\C# Advanced\Stacks and Queues - Lab\5.PrintEvenNumbers\bin\Debug\net8.0\5.PrintEvenNumbers.dll
+C:\Users\lubak\Desktop\C# Advanced\Stacks and Queues - Lab\5.PrintEvenNumbers\bin\Debug\net8.0\5.PrintEvenNumbers.pdb
+C:\Users\lubak\Desktop\C# Advanced\Stacks and Queues - Lab\5.PrintEvenNumbers\obj\Debug\net8.0\5.PrintEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\C# Advanced\Stacks and Queues - Lab\5.PrintEvenNumbers\obj\Debug\net8.0\5.PrintEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\C# Advanced\Stacks and Queues - Lab\5.PrintEvenNumbers\obj\Debug\net8.0\5.PrintEvenNumbers.AssemblyInfo.cs
+C:\Users\lubak\Desktop\C# Advanced\Stacks and Queues - Lab\5.PrintEvenNumbers\obj\Debug\net8.0\5.PrintEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\C# Advanced\Stacks and Queues - Lab\5.PrintEvenNumbers\obj\Debug\net8.0\5.PrintEvenNumbers.dll
+C:\Users\lubak\Desktop\C# Advanced\Stacks and Queues - Lab\5.PrintEvenNumbers\obj\Debug\net8.0\refint\5.PrintEvenNumbers.dll
+C:\Users\lubak\Desktop\C# Advanced\Stacks and Queues - Lab\5.PrintEvenNumbers\obj\Debug\net8.0\5.PrintEvenNumbers.pdb
+C:\Users\lubak\Desktop\C# Advanced\Stacks and Queues - Lab\5.PrintEvenNumbers\obj\Debug\net8.0\5.PrintEvenNumbers.genruntimeconfig.cache
+C:\Users\lubak\Desktop\C# Advanced\Stacks and Queues - Lab\5.PrintEvenNumbers\obj\Debug\net8.0\ref\5.PrintEvenNumbers.dll
