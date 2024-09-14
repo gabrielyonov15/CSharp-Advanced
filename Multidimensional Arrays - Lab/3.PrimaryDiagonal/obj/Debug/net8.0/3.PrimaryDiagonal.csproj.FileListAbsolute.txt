@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\C# Advanced\Multidimensional Arrays - Lab\3.PrimaryDiagonal\bin\Debug\net8.0\3.PrimaryDiagonal.exe
+C:\Users\lubak\Desktop\C# Advanced\Multidimensional Arrays - Lab\3.PrimaryDiagonal\bin\Debug\net8.0\3.PrimaryDiagonal.deps.json
+C:\Users\lubak\Desktop\C# Advanced\Multidimensional Arrays - Lab\3.PrimaryDiagonal\bin\Debug\net8.0\3.PrimaryDiagonal.runtimeconfig.json
+C:\Users\lubak\Desktop\C# Advanced\Multidimensional Arrays - Lab\3.PrimaryDiagonal\bin\Debug\net8.0\3.PrimaryDiagonal.dll
+C:\Users\lubak\Desktop\C# Advanced\Multidimensional Arrays - Lab\3.PrimaryDiagonal\bin\Debug\net8.0\3.PrimaryDiagonal.pdb
+C:\Users\lubak\Desktop\C# Advanced\Multidimensional Arrays - Lab\3.PrimaryDiagonal\obj\Debug\net8.0\3.PrimaryDiagonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\C# Advanced\Multidimensional Arrays - Lab\3.PrimaryDiagonal\obj\Debug\net8.0\3.PrimaryDiagonal.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\C# Advanced\Multidimensional Arrays - Lab\3.PrimaryDiagonal\obj\Debug\net8.0\3.PrimaryDiagonal.AssemblyInfo.cs
+C:\Users\lubak\Desktop\C# Advanced\Multidimensional Arrays - Lab\3.PrimaryDiagonal\obj\Debug\net8.0\3.PrimaryDiagonal.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\C# Advanced\Multidimensional Arrays - Lab\3.PrimaryDiagonal\obj\Debug\net8.0\3.PrimaryDiagonal.dll
+C:\Users\lubak\Desktop\C# Advanced\Multidimensional Arrays - Lab\3.PrimaryDiagonal\obj\Debug\net8.0\refint\3.PrimaryDiagonal.dll
+C:\Users\lubak\Desktop\C# Advanced\Multidimensional Arrays - Lab\3.PrimaryDiagonal\obj\Debug\net8.0\3.PrimaryDiagonal.pdb
+C:\Users\lubak\Desktop\C# Advanced\Multidimensional Arrays - Lab\3.PrimaryDiagonal\obj\Debug\net8.0\3.PrimaryDiagonal.genruntimeconfig.cache
+C:\Users\lubak\Desktop\C# Advanced\Multidimensional Arrays - Lab\3.PrimaryDiagonal\obj\Debug\net8.0\ref\3.PrimaryDiagonal.dll
