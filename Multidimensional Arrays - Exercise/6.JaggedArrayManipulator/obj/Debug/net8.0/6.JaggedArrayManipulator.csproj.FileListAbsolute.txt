@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\C# Advanced\Multidimensional Arrays - Exercise\6.JaggedArrayManipulator\bin\Debug\net8.0\6.JaggedArrayManipulator.exe
+C:\Users\lubak\Desktop\C# Advanced\Multidimensional Arrays - Exercise\6.JaggedArrayManipulator\bin\Debug\net8.0\6.JaggedArrayManipulator.deps.json
+C:\Users\lubak\Desktop\C# Advanced\Multidimensional Arrays - Exercise\6.JaggedArrayManipulator\bin\Debug\net8.0\6.JaggedArrayManipulator.runtimeconfig.json
+C:\Users\lubak\Desktop\C# Advanced\Multidimensional Arrays - Exercise\6.JaggedArrayManipulator\bin\Debug\net8.0\6.JaggedArrayManipulator.dll
+C:\Users\lubak\Desktop\C# Advanced\Multidimensional Arrays - Exercise\6.JaggedArrayManipulator\bin\Debug\net8.0\6.JaggedArrayManipulator.pdb
+C:\Users\lubak\Desktop\C# Advanced\Multidimensional Arrays - Exercise\6.JaggedArrayManipulator\obj\Debug\net8.0\6.JaggedArrayManipulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\C# Advanced\Multidimensional Arrays - Exercise\6.JaggedArrayManipulator\obj\Debug\net8.0\6.JaggedArrayManipulator.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\C# Advanced\Multidimensional Arrays - Exercise\6.JaggedArrayManipulator\obj\Debug\net8.0\6.JaggedArrayManipulator.AssemblyInfo.cs
+C:\Users\lubak\Desktop\C# Advanced\Multidimensional Arrays - Exercise\6.JaggedArrayManipulator\obj\Debug\net8.0\6.JaggedArrayManipulator.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\C# Advanced\Multidimensional Arrays - Exercise\6.JaggedArrayManipulator\obj\Debug\net8.0\6.JaggedArrayManipulator.dll
+C:\Users\lubak\Desktop\C# Advanced\Multidimensional Arrays - Exercise\6.JaggedArrayManipulator\obj\Debug\net8.0\refint\6.JaggedArrayManipulator.dll
+C:\Users\lubak\Desktop\C# Advanced\Multidimensional Arrays - Exercise\6.JaggedArrayManipulator\obj\Debug\net8.0\6.JaggedArrayManipulator.pdb
+C:\Users\lubak\Desktop\C# Advanced\Multidimensional Arrays - Exercise\6.JaggedArrayManipulator\obj\Debug\net8.0\6.JaggedArrayManipulator.genruntimeconfig.cache
+C:\Users\lubak\Desktop\C# Advanced\Multidimensional Arrays - Exercise\6.JaggedArrayManipulator\obj\Debug\net8.0\ref\6.JaggedArrayManipulator.dll
