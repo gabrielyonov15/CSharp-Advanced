@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\C# Advanced\Stacks and Queues - Lab\8.TrafficJam\bin\Debug\net8.0\8.TrafficJam.exe
+C:\Users\lubak\Desktop\C# Advanced\Stacks and Queues - Lab\8.TrafficJam\bin\Debug\net8.0\8.TrafficJam.deps.json
+C:\Users\lubak\Desktop\C# Advanced\Stacks and Queues - Lab\8.TrafficJam\bin\Debug\net8.0\8.TrafficJam.runtimeconfig.json
+C:\Users\lubak\Desktop\C# Advanced\Stacks and Queues - Lab\8.TrafficJam\bin\Debug\net8.0\8.TrafficJam.dll
+C:\Users\lubak\Desktop\C# Advanced\Stacks and Queues - Lab\8.TrafficJam\bin\Debug\net8.0\8.TrafficJam.pdb
+C:\Users\lubak\Desktop\C# Advanced\Stacks and Queues - Lab\8.TrafficJam\obj\Debug\net8.0\8.TrafficJam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\C# Advanced\Stacks and Queues - Lab\8.TrafficJam\obj\Debug\net8.0\8.TrafficJam.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\C# Advanced\Stacks and Queues - Lab\8.TrafficJam\obj\Debug\net8.0\8.TrafficJam.AssemblyInfo.cs
+C:\Users\lubak\Desktop\C# Advanced\Stacks and Queues - Lab\8.TrafficJam\obj\Debug\net8.0\8.TrafficJam.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\C# Advanced\Stacks and Queues - Lab\8.TrafficJam\obj\Debug\net8.0\8.TrafficJam.dll
+C:\Users\lubak\Desktop\C# Advanced\Stacks and Queues - Lab\8.TrafficJam\obj\Debug\net8.0\refint\8.TrafficJam.dll
+C:\Users\lubak\Desktop\C# Advanced\Stacks and Queues - Lab\8.TrafficJam\obj\Debug\net8.0\8.TrafficJam.pdb
+C:\Users\lubak\Desktop\C# Advanced\Stacks and Queues - Lab\8.TrafficJam\obj\Debug\net8.0\8.TrafficJam.genruntimeconfig.cache
+C:\Users\lubak\Desktop\C# Advanced\Stacks and Queues - Lab\8.TrafficJam\obj\Debug\net8.0\ref\8.TrafficJam.dll
