@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\C# Advanced\Sets and Dictionaries Advanced - Exercise\09.SoftUniExamResults\bin\Debug\net6.0\09.SoftUniExamResults.exe
+C:\Users\lubak\Desktop\C# Advanced\Sets and Dictionaries Advanced - Exercise\09.SoftUniExamResults\bin\Debug\net6.0\09.SoftUniExamResults.deps.json
+C:\Users\lubak\Desktop\C# Advanced\Sets and Dictionaries Advanced - Exercise\09.SoftUniExamResults\bin\Debug\net6.0\09.SoftUniExamResults.runtimeconfig.json
+C:\Users\lubak\Desktop\C# Advanced\Sets and Dictionaries Advanced - Exercise\09.SoftUniExamResults\bin\Debug\net6.0\09.SoftUniExamResults.dll
+C:\Users\lubak\Desktop\C# Advanced\Sets and Dictionaries Advanced - Exercise\09.SoftUniExamResults\bin\Debug\net6.0\09.SoftUniExamResults.pdb
+C:\Users\lubak\Desktop\C# Advanced\Sets and Dictionaries Advanced - Exercise\09.SoftUniExamResults\obj\Debug\net6.0\09.SoftUniExamResults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\C# Advanced\Sets and Dictionaries Advanced - Exercise\09.SoftUniExamResults\obj\Debug\net6.0\09.SoftUniExamResults.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\C# Advanced\Sets and Dictionaries Advanced - Exercise\09.SoftUniExamResults\obj\Debug\net6.0\09.SoftUniExamResults.AssemblyInfo.cs
+C:\Users\lubak\Desktop\C# Advanced\Sets and Dictionaries Advanced - Exercise\09.SoftUniExamResults\obj\Debug\net6.0\09.SoftUniExamResults.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\C# Advanced\Sets and Dictionaries Advanced - Exercise\09.SoftUniExamResults\obj\Debug\net6.0\09.SoftUniExamResults.dll
+C:\Users\lubak\Desktop\C# Advanced\Sets and Dictionaries Advanced - Exercise\09.SoftUniExamResults\obj\Debug\net6.0\refint\09.SoftUniExamResults.dll
+C:\Users\lubak\Desktop\C# Advanced\Sets and Dictionaries Advanced - Exercise\09.SoftUniExamResults\obj\Debug\net6.0\09.SoftUniExamResults.pdb
+C:\Users\lubak\Desktop\C# Advanced\Sets and Dictionaries Advanced - Exercise\09.SoftUniExamResults\obj\Debug\net6.0\09.SoftUniExamResults.genruntimeconfig.cache
+C:\Users\lubak\Desktop\C# Advanced\Sets and Dictionaries Advanced - Exercise\09.SoftUniExamResults\obj\Debug\net6.0\ref\09.SoftUniExamResults.dll
