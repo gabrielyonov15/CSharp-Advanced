@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\C# Advanced\Sets and Dictionaries Advanced - Exercise\10.ForceBook\bin\Debug\net6.0\10.ForceBook.exe
+C:\Users\lubak\Desktop\C# Advanced\Sets and Dictionaries Advanced - Exercise\10.ForceBook\bin\Debug\net6.0\10.ForceBook.deps.json
+C:\Users\lubak\Desktop\C# Advanced\Sets and Dictionaries Advanced - Exercise\10.ForceBook\bin\Debug\net6.0\10.ForceBook.runtimeconfig.json
+C:\Users\lubak\Desktop\C# Advanced\Sets and Dictionaries Advanced - Exercise\10.ForceBook\bin\Debug\net6.0\10.ForceBook.dll
+C:\Users\lubak\Desktop\C# Advanced\Sets and Dictionaries Advanced - Exercise\10.ForceBook\bin\Debug\net6.0\10.ForceBook.pdb
+C:\Users\lubak\Desktop\C# Advanced\Sets and Dictionaries Advanced - Exercise\10.ForceBook\obj\Debug\net6.0\10.ForceBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\C# Advanced\Sets and Dictionaries Advanced - Exercise\10.ForceBook\obj\Debug\net6.0\10.ForceBook.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\C# Advanced\Sets and Dictionaries Advanced - Exercise\10.ForceBook\obj\Debug\net6.0\10.ForceBook.AssemblyInfo.cs
+C:\Users\lubak\Desktop\C# Advanced\Sets and Dictionaries Advanced - Exercise\10.ForceBook\obj\Debug\net6.0\10.ForceBook.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\C# Advanced\Sets and Dictionaries Advanced - Exercise\10.ForceBook\obj\Debug\net6.0\10.ForceBook.dll
+C:\Users\lubak\Desktop\C# Advanced\Sets and Dictionaries Advanced - Exercise\10.ForceBook\obj\Debug\net6.0\refint\10.ForceBook.dll
+C:\Users\lubak\Desktop\C# Advanced\Sets and Dictionaries Advanced - Exercise\10.ForceBook\obj\Debug\net6.0\10.ForceBook.pdb
+C:\Users\lubak\Desktop\C# Advanced\Sets and Dictionaries Advanced - Exercise\10.ForceBook\obj\Debug\net6.0\10.ForceBook.genruntimeconfig.cache
+C:\Users\lubak\Desktop\C# Advanced\Sets and Dictionaries Advanced - Exercise\10.ForceBook\obj\Debug\net6.0\ref\10.ForceBook.dll
