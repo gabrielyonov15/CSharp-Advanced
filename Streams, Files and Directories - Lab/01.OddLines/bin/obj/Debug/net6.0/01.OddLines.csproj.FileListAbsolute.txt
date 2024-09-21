@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\C# Advanced\Streams, Files and Directories - Lab\01.OddLines\bin\Debug\net6.0\01.OddLines.exe
+C:\Users\lubak\Desktop\C# Advanced\Streams, Files and Directories - Lab\01.OddLines\bin\Debug\net6.0\01.OddLines.deps.json
+C:\Users\lubak\Desktop\C# Advanced\Streams, Files and Directories - Lab\01.OddLines\bin\Debug\net6.0\01.OddLines.runtimeconfig.json
+C:\Users\lubak\Desktop\C# Advanced\Streams, Files and Directories - Lab\01.OddLines\bin\Debug\net6.0\01.OddLines.dll
+C:\Users\lubak\Desktop\C# Advanced\Streams, Files and Directories - Lab\01.OddLines\bin\Debug\net6.0\01.OddLines.pdb
+C:\Users\lubak\Desktop\C# Advanced\Streams, Files and Directories - Lab\01.OddLines\obj\Debug\net6.0\01.OddLines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\C# Advanced\Streams, Files and Directories - Lab\01.OddLines\obj\Debug\net6.0\01.OddLines.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\C# Advanced\Streams, Files and Directories - Lab\01.OddLines\obj\Debug\net6.0\01.OddLines.AssemblyInfo.cs
+C:\Users\lubak\Desktop\C# Advanced\Streams, Files and Directories - Lab\01.OddLines\obj\Debug\net6.0\01.OddLines.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\C# Advanced\Streams, Files and Directories - Lab\01.OddLines\obj\Debug\net6.0\01.OddLines.dll
+C:\Users\lubak\Desktop\C# Advanced\Streams, Files and Directories - Lab\01.OddLines\obj\Debug\net6.0\refint\01.OddLines.dll
+C:\Users\lubak\Desktop\C# Advanced\Streams, Files and Directories - Lab\01.OddLines\obj\Debug\net6.0\01.OddLines.pdb
+C:\Users\lubak\Desktop\C# Advanced\Streams, Files and Directories - Lab\01.OddLines\obj\Debug\net6.0\01.OddLines.genruntimeconfig.cache
+C:\Users\lubak\Desktop\C# Advanced\Streams, Files and Directories - Lab\01.OddLines\obj\Debug\net6.0\ref\01.OddLines.dll
