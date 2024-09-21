@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\C# Advanced\Streams, Files and Directories - Lab\04.MergeTextFiles\bin\Debug\net6.0\04.MergeTextFiles.exe
+C:\Users\lubak\Desktop\C# Advanced\Streams, Files and Directories - Lab\04.MergeTextFiles\bin\Debug\net6.0\04.MergeTextFiles.deps.json
+C:\Users\lubak\Desktop\C# Advanced\Streams, Files and Directories - Lab\04.MergeTextFiles\bin\Debug\net6.0\04.MergeTextFiles.runtimeconfig.json
+C:\Users\lubak\Desktop\C# Advanced\Streams, Files and Directories - Lab\04.MergeTextFiles\bin\Debug\net6.0\04.MergeTextFiles.dll
+C:\Users\lubak\Desktop\C# Advanced\Streams, Files and Directories - Lab\04.MergeTextFiles\bin\Debug\net6.0\04.MergeTextFiles.pdb
+C:\Users\lubak\Desktop\C# Advanced\Streams, Files and Directories - Lab\04.MergeTextFiles\obj\Debug\net6.0\04.MergeTextFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\C# Advanced\Streams, Files and Directories - Lab\04.MergeTextFiles\obj\Debug\net6.0\04.MergeTextFiles.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\C# Advanced\Streams, Files and Directories - Lab\04.MergeTextFiles\obj\Debug\net6.0\04.MergeTextFiles.AssemblyInfo.cs
+C:\Users\lubak\Desktop\C# Advanced\Streams, Files and Directories - Lab\04.MergeTextFiles\obj\Debug\net6.0\04.MergeTextFiles.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\C# Advanced\Streams, Files and Directories - Lab\04.MergeTextFiles\obj\Debug\net6.0\04.MergeTextFiles.dll
+C:\Users\lubak\Desktop\C# Advanced\Streams, Files and Directories - Lab\04.MergeTextFiles\obj\Debug\net6.0\refint\04.MergeTextFiles.dll
+C:\Users\lubak\Desktop\C# Advanced\Streams, Files and Directories - Lab\04.MergeTextFiles\obj\Debug\net6.0\04.MergeTextFiles.pdb
+C:\Users\lubak\Desktop\C# Advanced\Streams, Files and Directories - Lab\04.MergeTextFiles\obj\Debug\net6.0\04.MergeTextFiles.genruntimeconfig.cache
+C:\Users\lubak\Desktop\C# Advanced\Streams, Files and Directories - Lab\04.MergeTextFiles\obj\Debug\net6.0\ref\04.MergeTextFiles.dll
