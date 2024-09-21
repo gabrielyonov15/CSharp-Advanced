@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\C# Advanced\Streams, Files and Directories - Lab\06.Split,MergeBinaryFiles\bin\Debug\net6.0\06.Split,MergeBinaryFiles.exe
+C:\Users\lubak\Desktop\C# Advanced\Streams, Files and Directories - Lab\06.Split,MergeBinaryFiles\bin\Debug\net6.0\06.Split,MergeBinaryFiles.deps.json
+C:\Users\lubak\Desktop\C# Advanced\Streams, Files and Directories - Lab\06.Split,MergeBinaryFiles\bin\Debug\net6.0\06.Split,MergeBinaryFiles.runtimeconfig.json
+C:\Users\lubak\Desktop\C# Advanced\Streams, Files and Directories - Lab\06.Split,MergeBinaryFiles\bin\Debug\net6.0\06.Split,MergeBinaryFiles.dll
+C:\Users\lubak\Desktop\C# Advanced\Streams, Files and Directories - Lab\06.Split,MergeBinaryFiles\bin\Debug\net6.0\06.Split,MergeBinaryFiles.pdb
+C:\Users\lubak\Desktop\C# Advanced\Streams, Files and Directories - Lab\06.Split,MergeBinaryFiles\obj\Debug\net6.0\06.Split,MergeBinaryFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\C# Advanced\Streams, Files and Directories - Lab\06.Split,MergeBinaryFiles\obj\Debug\net6.0\06.Split,MergeBinaryFiles.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\C# Advanced\Streams, Files and Directories - Lab\06.Split,MergeBinaryFiles\obj\Debug\net6.0\06.Split,MergeBinaryFiles.AssemblyInfo.cs
+C:\Users\lubak\Desktop\C# Advanced\Streams, Files and Directories - Lab\06.Split,MergeBinaryFiles\obj\Debug\net6.0\06.Split,MergeBinaryFiles.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\C# Advanced\Streams, Files and Directories - Lab\06.Split,MergeBinaryFiles\obj\Debug\net6.0\06.Split,MergeBinaryFiles.dll
+C:\Users\lubak\Desktop\C# Advanced\Streams, Files and Directories - Lab\06.Split,MergeBinaryFiles\obj\Debug\net6.0\refint\06.Split,MergeBinaryFiles.dll
+C:\Users\lubak\Desktop\C# Advanced\Streams, Files and Directories - Lab\06.Split,MergeBinaryFiles\obj\Debug\net6.0\06.Split,MergeBinaryFiles.pdb
+C:\Users\lubak\Desktop\C# Advanced\Streams, Files and Directories - Lab\06.Split,MergeBinaryFiles\obj\Debug\net6.0\06.Split,MergeBinaryFiles.genruntimeconfig.cache
+C:\Users\lubak\Desktop\C# Advanced\Streams, Files and Directories - Lab\06.Split,MergeBinaryFiles\obj\Debug\net6.0\ref\06.Split,MergeBinaryFiles.dll
