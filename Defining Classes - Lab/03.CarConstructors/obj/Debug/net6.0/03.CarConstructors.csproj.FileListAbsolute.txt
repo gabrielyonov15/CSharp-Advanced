@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\C# Advanced\Defining Classes - Lab\03.CarConstructors\bin\Debug\net6.0\03.CarConstructors.exe
+C:\Users\lubak\Desktop\C# Advanced\Defining Classes - Lab\03.CarConstructors\bin\Debug\net6.0\03.CarConstructors.deps.json
+C:\Users\lubak\Desktop\C# Advanced\Defining Classes - Lab\03.CarConstructors\bin\Debug\net6.0\03.CarConstructors.runtimeconfig.json
+C:\Users\lubak\Desktop\C# Advanced\Defining Classes - Lab\03.CarConstructors\bin\Debug\net6.0\03.CarConstructors.dll
+C:\Users\lubak\Desktop\C# Advanced\Defining Classes - Lab\03.CarConstructors\bin\Debug\net6.0\03.CarConstructors.pdb
+C:\Users\lubak\Desktop\C# Advanced\Defining Classes - Lab\03.CarConstructors\obj\Debug\net6.0\03.CarConstructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\C# Advanced\Defining Classes - Lab\03.CarConstructors\obj\Debug\net6.0\03.CarConstructors.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\C# Advanced\Defining Classes - Lab\03.CarConstructors\obj\Debug\net6.0\03.CarConstructors.AssemblyInfo.cs
+C:\Users\lubak\Desktop\C# Advanced\Defining Classes - Lab\03.CarConstructors\obj\Debug\net6.0\03.CarConstructors.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\C# Advanced\Defining Classes - Lab\03.CarConstructors\obj\Debug\net6.0\03.CarConstructors.dll
+C:\Users\lubak\Desktop\C# Advanced\Defining Classes - Lab\03.CarConstructors\obj\Debug\net6.0\refint\03.CarConstructors.dll
+C:\Users\lubak\Desktop\C# Advanced\Defining Classes - Lab\03.CarConstructors\obj\Debug\net6.0\03.CarConstructors.pdb
+C:\Users\lubak\Desktop\C# Advanced\Defining Classes - Lab\03.CarConstructors\obj\Debug\net6.0\03.CarConstructors.genruntimeconfig.cache
+C:\Users\lubak\Desktop\C# Advanced\Defining Classes - Lab\03.CarConstructors\obj\Debug\net6.0\ref\03.CarConstructors.dll
