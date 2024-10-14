@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\C# Advanced\Iterators and Comparators - Lab\04.BookComparer\bin\Debug\net6.0\04.BookComparer.exe
+C:\Users\lubak\Desktop\C# Advanced\Iterators and Comparators - Lab\04.BookComparer\bin\Debug\net6.0\04.BookComparer.deps.json
+C:\Users\lubak\Desktop\C# Advanced\Iterators and Comparators - Lab\04.BookComparer\bin\Debug\net6.0\04.BookComparer.runtimeconfig.json
+C:\Users\lubak\Desktop\C# Advanced\Iterators and Comparators - Lab\04.BookComparer\bin\Debug\net6.0\04.BookComparer.dll
+C:\Users\lubak\Desktop\C# Advanced\Iterators and Comparators - Lab\04.BookComparer\bin\Debug\net6.0\04.BookComparer.pdb
+C:\Users\lubak\Desktop\C# Advanced\Iterators and Comparators - Lab\04.BookComparer\obj\Debug\net6.0\04.BookComparer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\C# Advanced\Iterators and Comparators - Lab\04.BookComparer\obj\Debug\net6.0\04.BookComparer.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\C# Advanced\Iterators and Comparators - Lab\04.BookComparer\obj\Debug\net6.0\04.BookComparer.AssemblyInfo.cs
+C:\Users\lubak\Desktop\C# Advanced\Iterators and Comparators - Lab\04.BookComparer\obj\Debug\net6.0\04.BookComparer.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\C# Advanced\Iterators and Comparators - Lab\04.BookComparer\obj\Debug\net6.0\04.BookComparer.dll
+C:\Users\lubak\Desktop\C# Advanced\Iterators and Comparators - Lab\04.BookComparer\obj\Debug\net6.0\refint\04.BookComparer.dll
+C:\Users\lubak\Desktop\C# Advanced\Iterators and Comparators - Lab\04.BookComparer\obj\Debug\net6.0\04.BookComparer.pdb
+C:\Users\lubak\Desktop\C# Advanced\Iterators and Comparators - Lab\04.BookComparer\obj\Debug\net6.0\04.BookComparer.genruntimeconfig.cache
+C:\Users\lubak\Desktop\C# Advanced\Iterators and Comparators - Lab\04.BookComparer\obj\Debug\net6.0\ref\04.BookComparer.dll
