@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\C# Advanced\C# Advanced Regular Exam\03.CreaturesOfTheCode\bin\Debug\net6.0\03.CreaturesOfTheCode.exe
+C:\Users\lubak\Desktop\C# Advanced\C# Advanced Regular Exam\03.CreaturesOfTheCode\bin\Debug\net6.0\03.CreaturesOfTheCode.deps.json
+C:\Users\lubak\Desktop\C# Advanced\C# Advanced Regular Exam\03.CreaturesOfTheCode\bin\Debug\net6.0\03.CreaturesOfTheCode.runtimeconfig.json
+C:\Users\lubak\Desktop\C# Advanced\C# Advanced Regular Exam\03.CreaturesOfTheCode\bin\Debug\net6.0\03.CreaturesOfTheCode.dll
+C:\Users\lubak\Desktop\C# Advanced\C# Advanced Regular Exam\03.CreaturesOfTheCode\bin\Debug\net6.0\03.CreaturesOfTheCode.pdb
+C:\Users\lubak\Desktop\C# Advanced\C# Advanced Regular Exam\03.CreaturesOfTheCode\obj\Debug\net6.0\03.CreaturesOfTheCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\C# Advanced\C# Advanced Regular Exam\03.CreaturesOfTheCode\obj\Debug\net6.0\03.CreaturesOfTheCode.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\C# Advanced\C# Advanced Regular Exam\03.CreaturesOfTheCode\obj\Debug\net6.0\03.CreaturesOfTheCode.AssemblyInfo.cs
+C:\Users\lubak\Desktop\C# Advanced\C# Advanced Regular Exam\03.CreaturesOfTheCode\obj\Debug\net6.0\03.CreaturesOfTheCode.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\C# Advanced\C# Advanced Regular Exam\03.CreaturesOfTheCode\obj\Debug\net6.0\03.CreaturesOfTheCode.dll
+C:\Users\lubak\Desktop\C# Advanced\C# Advanced Regular Exam\03.CreaturesOfTheCode\obj\Debug\net6.0\refint\03.CreaturesOfTheCode.dll
+C:\Users\lubak\Desktop\C# Advanced\C# Advanced Regular Exam\03.CreaturesOfTheCode\obj\Debug\net6.0\03.CreaturesOfTheCode.pdb
+C:\Users\lubak\Desktop\C# Advanced\C# Advanced Regular Exam\03.CreaturesOfTheCode\obj\Debug\net6.0\03.CreaturesOfTheCode.genruntimeconfig.cache
+C:\Users\lubak\Desktop\C# Advanced\C# Advanced Regular Exam\03.CreaturesOfTheCode\obj\Debug\net6.0\ref\03.CreaturesOfTheCode.dll

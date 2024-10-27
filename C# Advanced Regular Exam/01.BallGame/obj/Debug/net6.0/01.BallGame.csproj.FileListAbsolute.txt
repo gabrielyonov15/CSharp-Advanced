@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\C# Advanced\C# Advanced Regular Exam\01.BallGame\bin\Debug\net6.0\01.BallGame.exe
+C:\Users\lubak\Desktop\C# Advanced\C# Advanced Regular Exam\01.BallGame\bin\Debug\net6.0\01.BallGame.deps.json
+C:\Users\lubak\Desktop\C# Advanced\C# Advanced Regular Exam\01.BallGame\bin\Debug\net6.0\01.BallGame.runtimeconfig.json
+C:\Users\lubak\Desktop\C# Advanced\C# Advanced Regular Exam\01.BallGame\bin\Debug\net6.0\01.BallGame.dll
+C:\Users\lubak\Desktop\C# Advanced\C# Advanced Regular Exam\01.BallGame\bin\Debug\net6.0\01.BallGame.pdb
+C:\Users\lubak\Desktop\C# Advanced\C# Advanced Regular Exam\01.BallGame\obj\Debug\net6.0\01.BallGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\C# Advanced\C# Advanced Regular Exam\01.BallGame\obj\Debug\net6.0\01.BallGame.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\C# Advanced\C# Advanced Regular Exam\01.BallGame\obj\Debug\net6.0\01.BallGame.AssemblyInfo.cs
+C:\Users\lubak\Desktop\C# Advanced\C# Advanced Regular Exam\01.BallGame\obj\Debug\net6.0\01.BallGame.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\C# Advanced\C# Advanced Regular Exam\01.BallGame\obj\Debug\net6.0\01.BallGame.dll
+C:\Users\lubak\Desktop\C# Advanced\C# Advanced Regular Exam\01.BallGame\obj\Debug\net6.0\refint\01.BallGame.dll
+C:\Users\lubak\Desktop\C# Advanced\C# Advanced Regular Exam\01.BallGame\obj\Debug\net6.0\01.BallGame.pdb
+C:\Users\lubak\Desktop\C# Advanced\C# Advanced Regular Exam\01.BallGame\obj\Debug\net6.0\01.BallGame.genruntimeconfig.cache
+C:\Users\lubak\Desktop\C# Advanced\C# Advanced Regular Exam\01.BallGame\obj\Debug\net6.0\ref\01.BallGame.dll
